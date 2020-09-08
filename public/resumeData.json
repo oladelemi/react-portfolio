@@ -1,7 +1,7 @@
 {
   "main": {
     "name": "Abdulateef Oladelemi",
-    "occupation": " Software Developer & HR Professional",
+    "occupation": "  Developer & Freelancer",
     "description": "I am a Software Developer, Data Scientist by Day and a Human Resources Generalist by Night!",
     "image": "teef.jpg",
     "bio": " That's like three different versions of my name i acknowledge so far. I am a Software Developer, Cyber Security Data Scientist by Day and a Human Resources Generalist by Night!",
@@ -9,7 +9,6 @@
     "email": "oladelemia@gmail.com",
     "phone": "+1 (804) 292 8486",
     "address": {
-      "street": "My Street",
       "city": "California",
       "state": "USA",
       "zip": "91740"
