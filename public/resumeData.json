@@ -1,91 +1,106 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "name": "Abdulateef Oladelemi",
+    "occupation": " Software Developer & HR Professional",
+    "description": "I am a Software Developer, Data Scientist by Day and a Human Resources Generalist by Night!",
+    "image": "teef.jpg",
+    "bio": " That's like three different versions of my name i acknowledge so far. I am a Software Developer, Cyber Security Data Scientist by Day and a Human Resources Generalist by Night!",
+    "contactmessage": "Get in touch with me to collaborrate or questions/improvements about/on any of my projects.",
+    "email": "oladelemia@gmail.com",
+    "phone": "+1 (804) 292 8486",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "My Street",
+      "city": "California",
+      "state": "USA",
+      "zip": "91740"
     },
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "https://oladelemi.com",
+    "resumedownload": "https://oladelemi.com",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/oladelemi",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/oladelemi/",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/lordthebash/",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/oladelemi",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Here is a list of my Eductaion/Work Experience",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "Virginia Commonwealth University",
+        "degree": "Bachelors in Computer Science",
+        "graduated": "May 2020",
+        "description": "Magna cum Laude"
+      },
+      {
+        "school": "Reynolds Community College",
+        "degree": "Associate's Degree in Computer Science",
+        "graduated": "August 2018",
+        "description": "Summa cum Laude"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Amazon",
+        "title": "HR Generalist",
+        "years": "June 2020 - Present",
+        "description": "Acts as liaison between employee and management to answer questions or concerns regarding company policies, practices and regulations."
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Amazon",
+        "title": "HR Assistant",
+        "years": "September 2017 - June 2020",
+        "description": "Acts as liaison between employee and management to answer questions or concerns regarding company policies, practices and regulations."
       }
     ],
     "skills": [
       {
+        "name": "Bash",
+        "level": "70%"
+      },
+      {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "40%"
       },
       {
         "name": "CSS",
-        "level": "95%"
+        "level": "80%"
       },
       {
         "name": "Git",
-        "level": "60%"
+        "level": "70%"
       },
-      {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
-      },
+      
       {
         "name": "HTML5",
         "level": "80%"
       },
       {
-        "name": "MongoDB",
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+      {
+        "name": "JavaScript",
         "level": "80%"
       }
     ]
@@ -93,46 +108,35 @@
   "portfolio": {
     "projects": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "Machine learning to classify proteins from Raw Sequence Data",
+        "category": "Data Science",
+        "image": "protein.png",
+        "url": "https://oladelemi.com/works"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Responsive Wedding Website Design",
+        "category": "Web Design using HTML, CSS & JavaScript",
+        "image": "AkalasDesign.png",
+        "url": "https://oladelemi.com/works"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
-      },
-      {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Personal Website Build",
+        "category": "Portfolio Website built using React functionalities",
+        "image": "AkalasDesign.png",
+        "url": "https://oladelemi.com/works"
       }
+      
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "I'm working on the code to attain invincibility",
+        "user": "Abdulateef"
       },
       {
-        "text": "That Sonny Sangha must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user": "Steve Wozniak... impersonator"
+        "text": "I'm on the course of building that million dollar software",
+        "user": "Abdulateef"
       }
     ]
   }

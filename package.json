@@ -26,5 +26,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "## 👇 WATCH THIS FIRST 👇 ## https://tinyurl.com/customizeReactPortfolio",
+  "main": "index.js",
+  "author": "Abdulateef Oladelemi",
+  "license": "ISC",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oladelemi/react-portfolio.git"
+  },
+  "bugs": {
+    "url": "https://github.com/oladelemi/react-portfolio/issues"
+  },
+  "homepage": "https://github.com/oladelemi/react-portfolio#readme"
 }
